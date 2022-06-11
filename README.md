@@ -1,5 +1,5 @@
 <div align='center'>
-  <p>👋 Hello there! 👋 I'm Zach!</p>
+  <h1>👋 Hello there! &#10024; I'm Zach!</h1>
   <img src='https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif' width='300'>
 </div>
 
