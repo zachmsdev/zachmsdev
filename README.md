@@ -1,6 +1,6 @@
 
   <div align='center'>
-    <h1> Hello there! &#128075; I'm Zach.</h1>
+    <h1> Hey there! &#128075; I'm Zach.</h1>
     <img src='https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif' width='300'>
   </div>
   <h4>Passionate about building internet related things. &#10024;</h4>
