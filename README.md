@@ -5,7 +5,6 @@
   </div>
   <h4>Passionate about building internet related things. &#10024;</h4>
   <hr />
-  <h4 align='right'>Safari &#128078;</h4>
   <h3 align='center'>Technology</h3>
   <div align='center'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='80'/>
