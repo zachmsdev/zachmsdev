@@ -3,7 +3,7 @@
     <h1> Hey there! &#128075; I'm Zach.</h1>
     <img src='https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif' width='300'>
   </div>
-  <h4>Passionate about building internet related things. &#10024;</h4>
+  <h4>Passionate about building web things. &#10024;</h4>
   <hr />
   <h3 align='center'>Technology</h3>
   <div align='center'>
