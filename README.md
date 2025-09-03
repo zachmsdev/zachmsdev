@@ -15,7 +15,7 @@
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width='80'/>
     &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width='80'/>
+    <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width='80'/>
     &nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width='80'/>
     &nbsp;
